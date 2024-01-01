@@ -26,36 +26,16 @@ Este es un curso introductorio al aprendizaje estadístico, con énfasis princip
 # Material del curso
 <div id='id-material'/>
 
-  **No.**  | **Fecha**    | **Tópicos**                                                         | **Recursos**
-  -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
-  01       | 12.01.2023   | Introducción al curso. ML y Data Science. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | 
+  **No.**  | **Fecha**    | **Tópicos**                                                | **Recursos**
+  -------- | ------------ | ---------------------------------------------------------- |  -------------------------------------
+  01       | 12.01.2024   |    | 
   
-# Material adicional (scripts)   | 11.04.2021   | Pedro Pablo Beltranena, Andrés Martínez, Nickolas Nolte, Esteban Samayoa   | S&P 500 <br/> [Presentación](proyecto1/S&P500.pdf){:target="_blank"}
-  02       | 11.04.2021   | Cruz Del Cid, Daniel Behar, Javier Mazariegos, Marcela Melgar              | Ecobici <br/> [Presentación](proyecto1/Ecobici.pdf){:target="_blank"}
-  03       | 13.04.2021   | Carlos Alvarado, Mario Pisquiy, Luz Arévalo, Lorena Pérez                  | FAANG+5 Companies <br/> [Presentación](proyecto1/Faang.pdf){:target="_blank"}
 
-# Segundo Proyecto
-<div id='id-prj2'/>
+# Proyectos
+<div id='id-proj'/>
 
-Tema Libre. <br/>
-Recursos: Buscar repositorios de Machine Learning, de Bases de datos o Competencias (e.g. Kaggle), para tomar ideas de proyectos. <br/>
+En el curso realizaremos dos proyectos, los cuales se indicarán más adelante.
 
-  **No.**  | **Fecha**       | **Tópicos**                                                         
-  -------- | --------------- | ------------------------------------------------------------------- 
-  P2       | 13.04.2023      | [Proyecto 2](proyecto/Proyecto2_2023.pdf){:target="_blank"} 
-  .        | 28.04.2023      | Último día para tener elegido tema y datos  
-  .        | 11.05.2023      | Entrega de borrador del proyecto 
-  .        | 18.05.2023      | Presentaciones 
-  .        | 19.05.2023      | Entrega del reporte, código y presentación 
-
-# Presentaciones del segundo proyecto
-<div id='id-sem1'/>
-
-  **No.**  | **Fecha**    | **Expositores**                                                            | **Tópicos**
-  -------- | ------------ | -------------------------------------------------------------------------- | -------------------------------------
-  01       | 18.05.2021   | Carlos Alvarado, Mario Pisquiy, Luz Arévalo, Lorena Pérez                  | 
-  02       | 18.05.2021   | Cruz Del Cid, Daniel Behar, Javier Mazariegos, Marcela Melgar              | 
-  03       | 18.05.2021   | Pedro Pablo Beltranena, Andrés Martínez, Nickolas Nolte, Esteban Samayoa   | 
 
 # Referencias
 <div id='id-ref'/>

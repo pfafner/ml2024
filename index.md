@@ -28,9 +28,17 @@ Este es un curso introductorio al aprendizaje estadístico, con énfasis princip
 
   **No.**  | **Fecha**    | **Tópicos**                                                | **Recursos**
   -------- | ------------ | ---------------------------------------------------------- |  -------------------------------------
-  01       | 12.01.2024   | Inicio del curso.       | 
+  01       | 12.01.2024   | Introducción al curso. ML y Data Science.       | 
   
 
+# Material adicional (scripts)
+<div id='id-labs'/>
+
+  **No.**  | **Fecha**    | **Tópicos**                                                         | **Material**
+  -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
+  00       | 12.01.2024   | Instalación de librerías y ambiente de trabajo Python Anaconda, Jupyter-lab.  | [Anaconda+Tensorflow+Jupyter installation guide](otros/Anaconda+Tensorflow+Jupyter_installation_guide.pdf){:target="_blank"} <br/> *Archivos auxiliares:* [plotmatrix.py](otros/plotmatrix.py){:target="_blank"} [test.ipynb](otros/test.ipynb){:target="_blank"}
+
+  
 # Proyectos
 <div id='id-proj'/>
 

@@ -22,11 +22,12 @@ Este es un curso introductorio al aprendizaje estadístico, con énfasis princip
 # Material del curso
 <div id='id-material'/>
 
-  **No.**  | **Fecha**    | **Tópicos**                                                | **Recursos**
-  -------- | ------------ | ---------------------------------------------------------- |  -------------------------------------
-  01       | 12.01.2024   | Introducción al curso. ML y Data Science. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | 
-  02       | 19.01.2024   | Generación de muestras aleatorias. Repaso de estadística. | [aula02a_.ipynb](code/aula02a_.ipynb) [aula02b_.ipynb](code/aula02b_.ipynb){:target="_blank"}
-
+**No.**  | **Fecha**    | **Tópicos**                                                | **Recursos**
+-------- | ------------ | ---------------------------------------------------------- |  -------------------------------------
+01       | 12.01.2024   | Introducción al curso. ML y Data Science. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | 
+02       | 19.01.2024   | Generación de muestras aleatorias. Repaso de estadística. | [aula02a_.ipynb](code/aula02a_.ipynb) [aula02b_.ipynb](code/aula02b_.ipynb){:target="_blank"}
+03       | 26.01.2024   |    | 
+ 
 
 # Material adicional (scripts)
 <div id='id-labs'/>

@@ -27,8 +27,8 @@ Este es un curso introductorio al aprendizaje estadístico, con énfasis princip
 01       | 12.01.2024   | Introducción al curso. ML y Data Science. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | 
 02       | 19.01.2024   | Generación de muestras aleatorias. Repaso de estadística. | [aula02a_.ipynb](code/aula02a_.ipynb) [aula02b_.ipynb](code/aula02b_.ipynb){:target="_blank"}
 T1       | 19.01.2024   | Tarea 1. | [tarea01.pdf](listas/tarea01.pdf) <br/> **Entrega: viernes 2 de febrero.** 
-03       | 26.01.2024   | Análisis de Componentes Principales (PCA). <br/>  | [center-data.ipynb](code/center-data.ipynb) [svd.ipynb](code/svd.ipynb){:target="_blank"} [pca.ipynb](code/pca.ipynb){:target="_blank"} [deport.csv](code/deport.csv){:target="_blank"}
-04       | 26.01.2024   | Interpretación del PCA. <br/> | 
+03       | 26.01.2024   | Análisis de Componentes Principales (PCA). <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | [center-data.ipynb](code/center-data.ipynb) [svd.ipynb](code/svd.ipynb){:target="_blank"} [pca.ipynb](code/pca.ipynb){:target="_blank"} [deport.csv](code/deport.csv){:target="_blank"}
+04       | 26.01.2024   | Interpretación del PCA. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | 
 05       | 02.02.2024   | PCA para compresión de imágenes.   | 
 T2       | 12.02.2024   | Tarea 2. | [tarea02.pdf](listas/tarea02.pdf) [crimes.dat](listas/crimes.dat) [distances.csv](listas/distances.csv){:target="_blank"} [weather.csv](listas/weather.csv){:target="_blank"} <br/> **Entrega: viernes 16 de febrero.** 
  

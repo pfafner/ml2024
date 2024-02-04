@@ -29,7 +29,7 @@ Este es un curso introductorio al aprendizaje estadístico, con énfasis princip
 T1       | 19.01.2024   | Tarea 1. | [tarea01.pdf](listas/tarea01.pdf) <br/> **Entrega: viernes 2 de febrero.** 
 05       | 26.01.2024   | Análisis de Componentes Principales (PCA). <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | [center-data.ipynb](code/center-data.ipynb) [svd.ipynb](code/svd.ipynb){:target="_blank"} 
 06       | 26.01.2024   | Interpretación del PCA. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | [pca.ipynb](code/pca.ipynb){:target="_blank"} [deport.csv](code/deport.csv){:target="_blank"}
-07       | 02.02.2024   | Escalamiento multidimensional. <br/>   | [md-scaling.ipynb](code/md-scaling.ipynb){:target="_blank"} 
+07       | 02.02.2024   | Escalamiento multidimensional. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"}   | [md-scaling.ipynb](code/md-scaling.ipynb){:target="_blank"} 
 08       | 02.02.2024   | PCA para compresión de imágenes. <br/>  | [pca-grayscale.ipynb](code/pca-grayscale.ipynb){:target="_blank"} [pca-RGB.ipynb](code/pca-RGB.ipynb){:target="_blank"} [quetzal.png](code/quetzal.png){:target="_blank"}
 T2       | 12.02.2024   | Tarea 2. | [tarea02.pdf](listas/tarea02.pdf) [crimes.dat](listas/crimes.dat) [distances.csv](listas/distances.csv){:target="_blank"} [weather.csv](listas/weather.csv){:target="_blank"} <br/> **Entrega: viernes 16 de febrero.** 
  

@@ -33,7 +33,9 @@ T1       | 19.01.2024   | Tarea 1. | [tarea01.pdf](listas/tarea01.pdf) <br/> **E
 08       | 02.02.2024   | PCA para compresión de imágenes. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"}  | [pca-grayscale.ipynb](code/pca-grayscale.ipynb){:target="_blank"} [pca-RGB.ipynb](code/pca-RGB.ipynb){:target="_blank"} [quetzal.png](code/quetzal.png){:target="_blank"}
 09       |              | [http://timbaumann.info/svd-image-compression-demo/](http://timbaumann.info/svd-image-compression-demo/){:target="_blank"} | 
 T2       | 02.02.2024   | Tarea 2. | [tarea02.pdf](listas/tarea02.pdf) [crimes.dat](listas/crimes.dat) [distances.csv](listas/distances.csv){:target="_blank"} [weather.csv](listas/weather.csv){:target="_blank"} <br/> **Entrega: viernes 16 de febrero.** 
-10       | 16.02.2024   |   | 
+10       | 16.02.2024   | Factoración NNMF. Sistemas de recomendación.  | [movies.csv](code/movies.csv){:target="_blank"} [pca-RGB.ipynb](code/pca-RGB.ipynb){:target="_blank"} [quetzal.png](code/quetzal.png){:target="_blank"}
+
+Add recommender.ipynb
 
 
 # Material adicional (scripts)

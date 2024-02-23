@@ -34,6 +34,8 @@ T1       | 19.01.2024   | Tarea 1. | [tarea01.pdf](listas/tarea01.pdf) <br/> **E
 09       |              | [http://timbaumann.info/svd-image-compression-demo/](http://timbaumann.info/svd-image-compression-demo/){:target="_blank"} | 
 T2       | 02.02.2024   | Tarea 2. | [tarea02.pdf](listas/tarea02.pdf) [crimes.dat](listas/crimes.dat) [distances.csv](listas/distances.csv){:target="_blank"} [weather.csv](listas/weather.csv){:target="_blank"} <br/> **Entrega: viernes 16 de febrero.** 
 10       | 16.02.2024   | Factoración NNMF. Sistemas de recomendación. [Aula 10](aulas/Aula10.pdf){:target="_blank"}  | [recommender.ipynb](code/recommender.ipynb){:target="_blank"} [movies.csv](code/movies.csv){:target="_blank"} [ratings.csv](code/ratings.csv){:target="_blank"} 
+11       | 23.02.2024   | *Manifold Learning I*. <br/>  | [manifold-roll.ipynb](code/manifold-roll.ipynb){:target="_blank"} [manifold-digits.ipynb](code/manifold-digits.ipynb){:target="_blank"}
+12       | 23.02.2024   | *Manifold Learning II*. <br/>  | [som-penguins.ipynb](code/som-penguins.ipynb){:target="_blank"}  [democracy-index.csv](code/democracy-index.csv){:target="_blank"} [democracy-index.ipynb](code/democracy-index.ipynb){:target="_blank"} 
 
 
 # Material adicional (scripts)

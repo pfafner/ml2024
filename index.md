@@ -47,7 +47,15 @@ T2       | 02.02.2024   | Tarea 2. | [tarea02.pdf](listas/tarea02.pdf) [crimes.d
 # Proyectos
 <div id='id-proj'/>
 
-En el curso realizaremos dos proyectos, los cuales se indicarán más adelante.
+En el curso realizaremos dos proyectos.
+
+## Primer Proyecto
+
+**No.**  | **Fecha**    | **Tópicos**                                                         
+-------- | ------------ | ------------------------------------------------------------------- 
+P1       | 23.02.2024   | [Proyecto 1](proyecto1/Proyecto1_ml2024.pdf){:target="_blank"} <br/> Coordenadas de estaciones [stations.json](proyecto1/stations.json){:target="_blank"} [stations.csv](proyecto1/stations.csv){:target="_blank"} 
+.        | 05.04.2024   | Presentaciones 
+.        | 12.04.2024   | Entrega del reporte, código y presentación 
 
 
 # Referencias

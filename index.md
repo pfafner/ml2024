@@ -36,6 +36,9 @@ T2       | 02.02.2024   | Tarea 2. | [tarea02.pdf](listas/tarea02.pdf) [crimes.d
 10       | 16.02.2024   | Factoración NNMF. Sistemas de recomendación. [Aula 10](aulas/Aula10.pdf){:target="_blank"}  | [recommender.ipynb](code/recommender.ipynb){:target="_blank"} [movies.csv](code/movies.csv){:target="_blank"} [ratings.csv](code/ratings.csv){:target="_blank"} 
 11       | 23.02.2024   | *Manifold Learning I*. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} | [manifold-roll.ipynb](code/manifold-roll.ipynb){:target="_blank"} [manifold-digits.ipynb](code/manifold-digits.ipynb){:target="_blank"}
 12       | 23.02.2024   | *Manifold Learning II*. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | [som-penguins.ipynb](code/som-penguins.ipynb){:target="_blank"}  [democracy-index.csv](code/democracy-index.csv){:target="_blank"} [democracy-index.ipynb](code/democracy-index.ipynb){:target="_blank"} 
+13       | 01.03.2024   | Imputación de Datos. <br/>  | [imputation.ipynb](code/imputation.ipynb){:target="_blank"} [visualisation.ipynb](code/visualisation.ipynb){:target="_blank"} [hpi-data-2016.csv](code/hpi-data-2016.csv){:target="_blank"} 
+14       | 01.03.2024   | *Manifold Learning II*. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | [som-penguins.ipynb](code/som-penguins.ipynb){:target="_blank"}  [democracy-index.csv](code/democracy-index.csv){:target="_blank"} [democracy-index.ipynb](code/democracy-index.ipynb){:target="_blank"} 
+
 
 
 # Material adicional (scripts)

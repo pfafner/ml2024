@@ -37,7 +37,8 @@ T2       | 02.02.2024   | Tarea 2. | [tarea02.pdf](listas/tarea02.pdf) [crimes.d
 11       | 23.02.2024   | *Manifold Learning I*. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} | [manifold-roll.ipynb](code/manifold-roll.ipynb){:target="_blank"} [manifold-digits.ipynb](code/manifold-digits.ipynb){:target="_blank"}
 12       | 23.02.2024   | *Manifold Learning II*. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | [som-penguins.ipynb](code/som-penguins.ipynb){:target="_blank"}  [democracy-index.csv](code/democracy-index.csv){:target="_blank"} [democracy-index.ipynb](code/democracy-index.ipynb){:target="_blank"} 
 13       | 01.03.2024   | Imputación de Datos. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"}  | [imputation.ipynb](code/imputation.ipynb){:target="_blank"} [visualisation.ipynb](code/visualisation.ipynb){:target="_blank"} [hpi-data-2016.csv](code/hpi-data-2016.csv){:target="_blank"} 
-14       | 01.03.2024   | Estimación de Densidades por Kernel (KDE). [Aula 14](aulas/Aula14.pdf){:target="_blank"}  | [1D-kernel-density.ipynb](code/1D-kernel-density.ipynb){:target="_blank"} [2D-kernel-density.ipynb](code/2D-kernel-density.ipynb){:target="_blank"} 
+14       | 01.03.2024   | Estimación de Densidades por Kernel (KDE). [Aula 14](aulas/Aula14.pdf){:target="_blank"}  | [1D-kernel-density.ipynb](code/1D-kernel-density.ipynb){:target="_blank"} <br/> [2D-kernel-density.ipynb](code/2D-kernel-density.ipynb){:target="_blank"} 
+15       | 08.03.2024   | Agrupamiento Jerárquico. <br/> | 
 
 
 

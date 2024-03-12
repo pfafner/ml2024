@@ -40,7 +40,7 @@ T2       | 02.02.2024   | Tarea 2. | [tarea02.pdf](listas/tarea02.pdf) [crimes.d
 14       | 01.03.2024   | Estimación de Densidades por Kernel (KDE). [Aula 14](aulas/Aula14.pdf){:target="_blank"}  | [1D-kernel-density.ipynb](code/1D-kernel-density.ipynb){:target="_blank"} <br/> [2D-kernel-density.ipynb](code/2D-kernel-density.ipynb){:target="_blank"} 
 T3       | 08.03.2024   | Tarea 3. | [tarea03.pdf](listas/tarea03.pdf) [hpi-data-2016.csv](code/hpi-data-2016.csv) [wines.csv](listas/wines.csv){:target="_blank"} <br/> **Entrega: viernes 22 de marzo.** 
 15       | 08.03.2024   | Agrupamiento Jerárquico. <br/> | [hierarchical.ipynb](code/hierarchical.ipynb){:target="_blank"} [hierarchical-image.ipynb](code/hierarchical-image.ipynb){:target="_blank"} <br/> [tree.jpg](code/tree,jpg){:target="_blank"} [playa.jpeg](code/playa.jpeg){:target="_blank"}
-16       | 08.03.2024   | <br/> | [countries-binary.xlsx](code/countries-binary.xlsx){:target="_blank"} 
+16       | 08.03.2024   | Ejemplos de agrupamiento jerárquico. <br/> | [countries-binary.xlsx](code/countries-binary.xlsx){:target="_blank"} 
 
 
 # Proyectos

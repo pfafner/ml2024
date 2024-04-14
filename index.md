@@ -43,8 +43,9 @@ T3       | 08.03.2024   | Tarea 3. | [tarea03.pdf](listas/tarea03.pdf) [hpi-data
 16       | 08.03.2024   | Ejemplos de agrupamiento jerárquico. <br/> | [countries_binary.xlsx](code/countries_binary.xlsx){:target="_blank"} 
 16       | 15.03.2024   | K-means y variantes. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} | [k-means_data.csv](code/k-means_data.csv){:target="_blank"} 
 17       | 22.03.2024   | Ejercicio usando K-means. <br/> | [ejercicio.pdf](otros/ejercicio1.pdf){:target="_blank"} 
-18       | 22.03.2024   | Otros algoritmos de *clustering*: Mean-shift, DBSCAN, OPTICS, BIRCH. <br/> | [density-based.ipynb](code/density-based.ipynb){:target="_blank"} [compare-clust.ipynb](code/compare-clust.ipynb){:target="_blank"}
-19       | 22.03.2024   | Métricas para agrupamiento. <br/> | [clustering-metrics.ipynb](code/clustering-metrics.ipynb){:target="_blank"} [silhouette.ipynb](code/silhouette.ipynb){:target="_blank"} <br/> [ejercicio-clust.ipynb](otros/ejercicio-clust.ipynb){:target="_blank"} [Datos_clustering.csv](code/Datos_clustering.csv){:target="_blank"} 
+18       | 05.04.2024   | Otros algoritmos de *clustering*: Mean-shift, DBSCAN, OPTICS, BIRCH. <br/> | [density-based.ipynb](code/density-based.ipynb){:target="_blank"} [compare-clust.ipynb](code/compare-clust.ipynb){:target="_blank"}
+19       | 05.04.2024   | Métricas para agrupamiento. <br/> | [clustering-metrics.ipynb](code/clustering-metrics.ipynb){:target="_blank"} [silhouette.ipynb](code/silhouette.ipynb){:target="_blank"} <br/> [ejercicio-clust.ipynb](otros/ejercicio-clust.ipynb){:target="_blank"} [Datos_clustering.csv](code/Datos_clustering.csv){:target="_blank"} 
+20       | 12.04.2024   | Presentaciones del primer proyecto. |  
 
 
 # Proyectos

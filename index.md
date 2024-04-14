@@ -57,7 +57,7 @@ En el curso realizaremos dos proyectos.
 **No.**  | **Fecha**    | **Tópicos**                                                         
 -------- | ------------ | ------------------------------------------------------------------- 
 P1       | 23.02.2024   | [Proyecto 1](proyectos/Proyecto1_ml2024.pdf){:target="_blank"} <br/> Coordenadas de estaciones [stations.json](proyectos/stations.json){:target="_blank"} [stations.csv](proyectos/stations.csv){:target="_blank"} 
-.        | 05.04.2024   | Presentaciones 
+.        | 12.04.2024   | Presentaciones 
 .        | 12.04.2024   | Entrega del reporte, código y presentación 
 
 

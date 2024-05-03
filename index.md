@@ -56,13 +56,22 @@ T3       | 08.03.2024   | Tarea 3. | [tarea03.pdf](listas/tarea03.pdf) [hpi-data
 
 En el curso realizaremos dos proyectos.
 
-## Primer Proyecto
+## Primer Proyecto (Ecobici y SP500)
 
 **No.**  | **Fecha**    | **Tópicos**                                                         
 -------- | ------------ | ------------------------------------------------------------------- 
 P1       | 23.02.2024   | [Proyecto 1](proyectos/Proyecto1_ml2024.pdf){:target="_blank"} <br/> Coordenadas de estaciones [stations.json](proyectos/stations.json){:target="_blank"} [stations.csv](proyectos/stations.csv){:target="_blank"} 
 .        | 12.04.2024   | Presentaciones 
 .        | 12.04.2024   | Entrega del reporte, código y presentación 
+
+
+## Segundo Proyecto (Tema Libre)
+
+**No.**  | **Fecha**    | **Tópicos**                                                         
+-------- | ------------ | ------------------------------------------------------------------- 
+P2       | 26.04.2024   | [Proyecto 2](proyectos/Proyecto2_ml2024.pdf){:target="_blank"} <br/> 
+.        | 17.05.2024   | Presentaciones 
+.        | 19.05.2024   | Entrega del reporte, código y presentación 
 
 
 # Material adicional (scripts)

@@ -48,8 +48,8 @@ T3       | 08.03.2024   | Tarea 3. | [tarea03.pdf](listas/tarea03.pdf) [hpi-data
 20       | 12.04.2024   | Presentaciones del primer proyecto. |  
 21       | 26.04.2024   | Modelación predictiva. *K-nearest neighbours* (KNN). <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} |  
 22       | 26.04.2024   | Clasificador bayesiano óptimo. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} [Aula 21](aulas/Aula21.pdf){:target="_blank"} | [Clasificador_Bayesiano.xlsx](code/Clasificador_Bayesiano.xlsx){:target="_blank"} 
-23       |              |   |  
-
+23       | 03.05.2024   | Naïve Bayes. Ejemplos de clasificadores naïve.  | [bayes.ipynb](code/bayes.ipynb){:target="_blank"} [bayes_car_exercise.ipynb](code/bayes_car_exercise.ipynb){:target="_blank"} [bayes_text_class.ipynb](code/bayes_text_class.ipynb){:target="_blank"} [car_data.csv](code/car_data.csv){:target="_blank"} 
+T4       | 03.05.2024   | Tarea 4. | [tarea04.pdf](listas/tarea04.pdf) <br/> [golf_data.csv](listas/golf_data.csv)
 
 # Proyectos
 <div id='id-proj'/>

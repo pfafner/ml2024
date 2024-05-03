@@ -47,7 +47,7 @@ T3       | 08.03.2024   | Tarea 3. | [tarea03.pdf](listas/tarea03.pdf) [hpi-data
 19       | 05.04.2024   | Métricas para agrupamiento. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} | [clustering-metrics.ipynb](code/clustering-metrics.ipynb){:target="_blank"} [silhouette.ipynb](code/silhouette.ipynb){:target="_blank"} <br/> [ejercicio-clust.ipynb](otros/ejercicio-clust.ipynb){:target="_blank"} [Datos_clustering.csv](code/Datos_clustering.csv){:target="_blank"} 
 20       | 12.04.2024   | Presentaciones del primer proyecto. |  
 21       | 26.04.2024   | Modelación predictiva. *K-nearest neighbours* (KNN). <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} |  
-22       | 26.04.2024   | Clasificador bayesiano óptimo. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} [Aula 21](aulas/Aula21.pdf){:target="_blank"} |  
+22       | 26.04.2024   | Clasificador bayesiano óptimo. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} [Aula 21](aulas/Aula21.pdf){:target="_blank"} | [Clasificador_Bayesiano.xlsx](code/Clasificador_Bayesiano.xlsx){:target="_blank"} 
 23       |              |   |  
 
 

@@ -51,6 +51,7 @@ T3       | 08.03.2024   | Tarea 3. | [tarea03.pdf](listas/tarea03.pdf) [hpi-data
 23       | 03.05.2024   | Naïve Bayes. Ejemplos de clasificadores naïve.  | [bayes.ipynb](code/bayes.ipynb){:target="_blank"} [bayes_car_exercise.ipynb](code/bayes_car_exercise.ipynb){:target="_blank"} [bayes_text_class.ipynb](code/bayes_text_class.ipynb){:target="_blank"} [car_data.csv](code/car_data.csv){:target="_blank"} 
 T4       | 03.05.2024   | Tarea 4. | [tarea04.pdf](listas/tarea04.pdf) <br/> [golf_data.csv](listas/golf_data.csv)
 24       | 10.05.2024   | Redes Neuronales. <br/> [Aula 24](aulas/Aula24.pdf){:target="_blank"} | [Keras1.zip](code/Keras1.zip){:target="_blank"} 
+25       | 17.05.2024   | Presentación de proyecto final. |  
 
 
 # Proyectos

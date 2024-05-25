@@ -79,6 +79,9 @@ P2       | 26.04.2024   | [Proyecto 2](proyectos/Proyecto2_ml2024.pdf){:target="
 .        | 17.05.2024   | Presentaciones 
 .        | 19.05.2024   | Entrega del reporte, código y presentación 
 
+.        | **Fecha**    | **Expositores**                            | **Tópicos**                        
+-------- | ------------ | ------------------------------------------ | ------------------------- 
+.        |              |                                            |  
 
 
 

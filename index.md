@@ -84,7 +84,8 @@ P2       | 26.04.2024   | [Proyecto 2](proyectos/Proyecto2_ml2024.pdf){:target="
 .        | **Fecha**    | **Expositores**                            | **Tópicos**                        
 -------- | ------------ | ------------------------------------------ | ------------------------- 
 .        |              |                                            |  
-
+.        |              |                                            |  
+.        |              |                                            |  
 
 
 # Material adicional (scripts)

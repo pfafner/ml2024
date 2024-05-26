@@ -70,6 +70,8 @@ P1       | 23.02.2024   | [Proyecto 1](proyectos/Proyecto1_ml2024.pdf){:target="
 .        | **Fecha**    | **Expositores**                            | **Tópicos**                        
 -------- | ------------ | ------------------------------------------ | ------------------------- 
 .        |              |                                            |  
+.        |              |                                            |  
+.        |              |                                            |  
 
 ## Segundo Proyecto (Tema Libre)
 

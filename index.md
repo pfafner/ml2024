@@ -67,11 +67,6 @@ P1       | 23.02.2024   | [Proyecto 1](proyectos/Proyecto1_ml2024.pdf){:target="
 .        | 12.04.2024   | Presentaciones 
 .        | 12.04.2024   | Entrega del reporte, código y presentación 
 
-.        | **Fecha**    | **Expositores**                            | **Tópicos**                        
--------- | ------------ | ------------------------------------------ | ------------------------- 
-.        |              |                                            |  
-.        |              |                                            |  
-.        |              |                                            |  
 
 ## Segundo Proyecto (Tema Libre)
 
@@ -80,12 +75,6 @@ P1       | 23.02.2024   | [Proyecto 1](proyectos/Proyecto1_ml2024.pdf){:target="
 P2       | 26.04.2024   | [Proyecto 2](proyectos/Proyecto2_ml2024.pdf){:target="_blank"} <br/> 
 .        | 17.05.2024   | Presentaciones 
 .        | 19.05.2024   | Entrega del reporte, código y presentación 
-
-.        | **Fecha**    | **Expositores**                            | **Tópicos**                        
--------- | ------------ | ------------------------------------------ | ------------------------- 
-.        |              |                                            |  
-.        |              |                                            |  
-.        |              |                                            |  
 
 
 # Material adicional (scripts)
